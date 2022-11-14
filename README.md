@@ -29,13 +29,13 @@
 ## Demos
 
 ### Monitoring vital signals 
-![Monitoring vital signals](doc/videos/Project_composer_part.gif)
+![Monitoring vital signals](live_signal.mp4)
 
 ### Diagrams 
 ![Block Diagram](block_diagram.jpg) | ![Circuit Diagram](circuit_diagram.jpeg)
 
 ### Ploting signal on 𝑋̅-chart
-![Ploting signal on 𝑋̅-chart](Block_Diagram.jpeg)
+![Ploting signal on 𝑋̅-chart](x_chart.jpeg)
 
 ## Run-App
 **_Run the application_**
