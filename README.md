@@ -29,7 +29,7 @@
 ## Demos
 
 ### Monitoring vital signals 
-![Monitoring vital signals](live_signal.mp4)
+[![Monitoring vital signals](live_signal.mp4)]
 
 ### Diagrams 
 ![Block Diagram](block_diagram.jpg) | ![Circuit Diagram](circuit_diagram.jpeg)
@@ -40,5 +40,5 @@
 ## Run-App
 **_Run the application_**
 ```sh
-streamlit ru MI.py
+streamlit ru mi.py
 
